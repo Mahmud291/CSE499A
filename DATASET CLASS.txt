@@ -1,0 +1,39 @@
+DATASET CLASS:
+
+
+
+1.
+ID 	Disease_Risk 	DR 	ARMD 	MH 	DN 	MYA 	BRVO 	TSLN 	ERM 	LS 	MS 	CSR 	ODC 	CRVO 	TV 	AH 	ODP 	ODE 	ST 	AION 	PT 	RT 	RS 	CRS 	EDN 	RPEC 	MHL 	RP 	CWS 	CB 	ODPM 	PRH 	MNF 	HR 	CRAO 	TD 	CME 	PTCR 	CF 	VH 	MCA 	VS 	BRAO 	PLQ 	HPED 	CL
+
+
+
+2 
+
+0 - No_DR
+1 - Mild
+2 - Moderate
+3 - Severe
+4 - Proliferate_DR
+
+3.
+   
+Normal (N),
+Diabetes (D),
+Glaucoma (G),
+Cataract (C),
+Age related Macular Degeneration (A),
+Hypertension (H),
+Pathological Myopia (M),
+Other diseases/abnormalities (O)
+
+
+4.
+
+The dataset has four categories of retinal images viz.
+Normal,
+Cataract, 
+Glaucoma 
+Diabetic Retinopathy.
+
+
+
