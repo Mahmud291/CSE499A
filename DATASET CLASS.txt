@@ -27,5 +27,17 @@ Cataract,
 Glaucoma 
 Diabetic Retinopathy.
 
+4.
+
+A. ID: Image identity number.
+B. Disease_Risk: Presence of disease/abnormality.
+C. DR: Presence of diabetic retinopathy.
+D. ARMD: Presence of age-related macular degeneration.
+E. MH: Presence of media haze.
+F. DN: Presence of drusen.
+G. MYA: Presence of myopia.
+H. BRVO: Presence of branch retinal vein occlusion.
+I. TSLN: Presence of tessellation
+
 
 
