@@ -1,13 +1,5 @@
 DATASET CLASS:
-
-
-
-1.
-ID 	Disease_Risk 	DR 	ARMD 	MH 	DN 	MYA 	BRVO 	TSLN 	ERM 	LS 	MS 	CSR 	ODC 	CRVO 	TV 	AH 	ODP 	ODE 	ST 	AION 	PT 	RT 	RS 	CRS 	EDN 	RPEC 	MHL 	RP 	CWS 	CB 	ODPM 	PRH 	MNF 	HR 	CRAO 	TD 	CME 	PTCR 	CF 	VH 	MCA 	VS 	BRAO 	PLQ 	HPED 	CL
-
-
-
-2 
+1. 
 
 0 - No_DR
 1 - Mild
@@ -15,7 +7,7 @@ ID 	Disease_Risk 	DR 	ARMD 	MH 	DN 	MYA 	BRVO 	TSLN 	ERM 	LS 	MS 	CSR 	ODC 	CRVO
 3 - Severe
 4 - Proliferate_DR
 
-3.
+2.
    
 Normal (N),
 Diabetes (D),
@@ -27,7 +19,7 @@ Pathological Myopia (M),
 Other diseases/abnormalities (O)
 
 
-4.
+3.
 
 The dataset has four categories of retinal images viz.
 Normal,
