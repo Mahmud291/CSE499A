@@ -38,13 +38,13 @@ class ODIR5K(Dataset):
         image = Image.open(img_path).convert("RGB")
 
         if label == 0:
-            label = torch.tensor([1,0,0,0])
+            label = torch.FloatTensor([1,0,0,0])
         elif label == 1:
-            label = torch.tensor([0,1,0,0])
+            label = torch.FloatTensor([0,1,0,0])
         elif label == 2:
-            label = torch.tensor([0,0,1,0])
+            label = torch.FloatTensor([0,0,1,0])
         else:
-            label = torch.tensor([0,0,0,1])
+            label = torch.FloatTensor([0,0,0,1])
 
         if self.crop: # crop black pixels
             image = np.array(image)
